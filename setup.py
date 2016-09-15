@@ -12,7 +12,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 	long_description = f.read()
 
 setup(
-	name='celery-readable-tasks',
+	name='celery_readable_tasks',
 
 	version='.1',
 
