@@ -21,3 +21,11 @@ For your typical task functions decorated with ``app.task`` or ``shared_task`` d
 
 
 If you're going to use classes for your tasks, just subclass ``ReadableTask``.
+
+Instead of UUID's, you will now have readable strings like::
+
+
+    BustlingUnfinishedQueenslandgrouperFeatures
+    CreepyMediumforestgreenBluebreastedkookaburraLooks
+    MealyFarawayAssFeels
+    NeighboringRingedAmphibianRegards
